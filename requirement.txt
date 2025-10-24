@@ -1,0 +1,14 @@
+#Langchain core
+Langchain
+Langchain-core
+#Hugging Face Integration
+Langchain-huggingface 
+transformers
+huggingface-hub
+
+#Environment variable management
+python-dotenv
+
+#machine learning utilities
+numpy
+scikit-learn
